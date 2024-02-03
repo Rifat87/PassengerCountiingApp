@@ -1,0 +1,17 @@
+button{
+    background: purple;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increament-btn{
+    background: darkred;
+}
+#save-el{
+    font-weight: bold;
+}
